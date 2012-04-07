@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Core.Domain.Model.Actor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAAgAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Actor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Domain.Model.Category" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAgAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Domain.Model.Cd" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAEAAAECIAAAIAAAAAAAAAABAA=</HashCode>
+      <FileName>Domain\Model\Cd.cs</FileName>
+      <NewMemberFileName>Domain\Model\CD.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Domain.Model.Movie" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgEAAgAAAAAAAAAAAAIAAAAAAAAIADCA=</HashCode>
+      <FileName>Domain\Model\Movie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Domain.Model.Name" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAEAQAAgAAAAAAAAAAAAIAAAAACAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Name.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Domain.Model.Song" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Model\Song.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Core.Domain.Interfaces.IEntity&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Domain\Interfaces\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Core.Domain.Interfaces.IValueObject&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Interfaces\IValueObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Core.Domain.Enums.Sex" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Domain\Enums\Sex.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
